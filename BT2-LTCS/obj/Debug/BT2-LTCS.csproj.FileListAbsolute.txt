@@ -1,0 +1,14 @@
+D:\HK223-n3-k2\C#\BT2-LTCS\BT2-LTCS\bin\Debug\BT2-LTCS.exe.config
+D:\HK223-n3-k2\C#\BT2-LTCS\BT2-LTCS\bin\Debug\BT2-LTCS.exe
+D:\HK223-n3-k2\C#\BT2-LTCS\BT2-LTCS\bin\Debug\BT2-LTCS.pdb
+D:\HK223-n3-k2\C#\BT2-LTCS\BT2-LTCS\obj\Debug\BT2-LTCS.csproj.AssemblyReference.cache
+D:\HK223-n3-k2\C#\BT2-LTCS\BT2-LTCS\obj\Debug\BT2-LTCS.csproj.CoreCompileInputs.cache
+D:\HK223-n3-k2\C#\BT2-LTCS\BT2-LTCS\obj\Debug\BT2-LTCS.exe
+D:\HK223-n3-k2\C#\BT2-LTCS\BT2-LTCS\obj\Debug\BT2-LTCS.pdb
+C:\Users\Admin\Pictures\okfen\BT2-LTCS\BT2-LTCS\bin\Debug\BT2-LTCS.exe.config
+C:\Users\Admin\Pictures\okfen\BT2-LTCS\BT2-LTCS\bin\Debug\BT2-LTCS.exe
+C:\Users\Admin\Pictures\okfen\BT2-LTCS\BT2-LTCS\bin\Debug\BT2-LTCS.pdb
+C:\Users\Admin\Pictures\okfen\BT2-LTCS\BT2-LTCS\obj\Debug\BT2-LTCS.csproj.AssemblyReference.cache
+C:\Users\Admin\Pictures\okfen\BT2-LTCS\BT2-LTCS\obj\Debug\BT2-LTCS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Pictures\okfen\BT2-LTCS\BT2-LTCS\obj\Debug\BT2-LTCS.exe
+C:\Users\Admin\Pictures\okfen\BT2-LTCS\BT2-LTCS\obj\Debug\BT2-LTCS.pdb
